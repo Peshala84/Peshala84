@@ -50,8 +50,8 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ramesh-peshala-b84a632aa/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="RameshPeshala" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/25468352/ramesh-peshala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RameshPeshala" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RameshPeshala" height="50" width="50" /></a>
-<a href="https://www.instagram.com/kavee_dineth/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="RameshPeshala" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100046880754370&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RameshPeshala" height="50" width="50" /></a>
+<a href="https://www.instagram.com/rameshpeshala000?igsh=ejVtY2F1ZmRhcDU0" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="RameshPeshala" height="50" width="50" /></a>
 </p>
 
 ---
