@@ -63,3 +63,8 @@
             
 </picture>
 
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Peshala84&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+
